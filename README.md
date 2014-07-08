@@ -1,0 +1,4 @@
+MyAndroidStuff
+==============
+
+projects
